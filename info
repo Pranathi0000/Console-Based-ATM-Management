@@ -1,0 +1,28 @@
+
+ATM Management System
+This project is a console-based ATM management system developed using Java. The system emulates an Automated Teller Machine (ATM) where users can perform basic banking operations.
+
+Features:
+User Authentication: Users can log in using their account credentials (account number and PIN).
+Account Operations: After authentication, users can perform operations such as:
+Check balance
+Deposit funds
+Withdraw funds
+Mini Statement
+Data Persistence: Simulated account data is stored in memory or a file, allowing basic data retrieval and manipulation.
+Technologies Used:
+Java (Core)
+JDBC
+Console-based user interface
+Basic file handling or in-memory data storage
+How to Run:
+Clone the repository to your local machine.
+Compile and run the Java file containing the main program.
+Follow the on-screen instructions to interact with the ATM system.
+Use predefined account numbers and PINs (if applicable) to log in and perform operations.
+Purpose:
+The project demonstrates fundamental concepts of object-oriented programming, user authentication, data management, and basic banking operations in a console-based environment.
+
+Notes:
+This project is developed for educational purposes and is a simplified representation of an ATM system.
+Account data and functionality are simulated and not connected to a real banking system.
